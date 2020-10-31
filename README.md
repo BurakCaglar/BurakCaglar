@@ -1,5 +1,5 @@
 
-<p align="center">Hey! I'm Burak, currently learning the React.</p>
+<p align="center">Hey! I'm Burak, currently learning React.</p>
 
 <p align="center">
 
