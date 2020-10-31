@@ -1,16 +1,21 @@
-### Hi there 👋
 
-<!--
-**BurakCaglar/BurakCaglar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">Hey! I'm Burak, currently learning the React.</p>
 
-Here are some ideas to get you started:
+<p align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <a href="mailto:burakcaglar@yandex.com/">
+  <img src="https://img.shields.io/badge/-Gmail-c14438??style=flat&logo=Gmail&logoColor=white">
+  </a>
+  
+  <a href="https://www.linkedin.com/in/caaglarburak/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
+  </a>
+  
+  <a href="https://twitter.com/caaglarburak">
+  <img src="https://img.shields.io/badge/-Twitter-1da1f2?style=flat-&labelColor=1da1f2&logo=twitter&logoColor=white">
+  </a>
+  
+  <a href="https://medium.com/@caglarburak">
+  <img src="https://img.shields.io/badge/-Medium-000??style=flat&logo=Medium&logoColor=white">
+  </a>
+ 
