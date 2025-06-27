@@ -40,7 +40,7 @@
         Node.js
       </td>
       <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="40" style="background:white;padding:5px;border-radius:5px;"/><br/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="40" style="background:white;padding:2px;border-radius:5px;"/><br/>
         Express
       </td>
       <td align="center">
@@ -81,7 +81,6 @@
   </table>
 
   ---
-
 
   ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0F766E&height=100&section=footer&fontSize=20&fontColor=FFFFFF)
 
