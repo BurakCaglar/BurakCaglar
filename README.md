@@ -5,7 +5,7 @@
   <h2>Hey! Its Burak, Software Developer</h2>
   <p>Building modern web and mobile applications</p>
 
-  [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/caaglarburak)
+
 
   ---
 
