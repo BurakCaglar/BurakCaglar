@@ -2,10 +2,36 @@
 
   ![Header](https://capsule-render.vercel.app/api?type=waving&color=0F766E&height=100&section=header&text=&fontSize=45&fontColor=FFFFFF&animation=fadeIn)
 
-  <h2>Hey! Its Burak, Software Developer</h2>
+  <h2>Hey! It's Burak, Software Developer</h2>
   <p>Building modern web and mobile applications</p>
 
+  ---
 
+  ### Featured Projects
+
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <h3>BatchBee</h3>
+        <p>
+          Desktop automation tool for Etsy sellers.  
+          Creates mockups, upscales images, uploads files to Google Drive, generates listing content, and prepares Etsy drafts.
+        </p>
+        <a href="https://www.batch-bee.com">
+          Visit Website
+        </a>
+      </td>
+      <td align="center" width="50%">
+        <h3>Nest</h3>
+        <p>
+          AI-powered relationship app for love language discovery, compatibility tests, daily relationship tasks, mood tracking, and partner sync.
+        </p>
+        <a href="https://nestapp.live/">
+          Visit Website
+        </a>
+      </td>
+    </tr>
+  </table>
 
   ---
 
