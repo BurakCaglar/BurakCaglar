@@ -17,7 +17,7 @@
           Desktop automation tool for Etsy sellers.  
           Creates mockups, upscales images, uploads files to Google Drive, generates listing content, and prepares Etsy drafts.
         </p>
-        <a href="https://www.batch-bee.com">
+        <a href="https://www.batch-bee.com" target="_blank" rel="noopener noreferrer">
           Visit Website
         </a>
       </td>
@@ -26,7 +26,7 @@
         <p>
           AI-powered relationship app for love language discovery, compatibility tests, daily relationship tasks, mood tracking, and partner sync.
         </p>
-        <a href="https://nestapp.live/">
+        <a href="https://nestapp.live/" target="_blank" rel="noopener noreferrer">
           Visit Website
         </a>
       </td>
