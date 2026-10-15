@@ -11,7 +11,7 @@ Software developer specializing in front-end, working with **React**, **Vue** an
 
 ### Tech Stack
 
-- **Languages:** TypeScript · JavaScript (ES6+) · HTML · CSS · C#
+- **Languages:** TypeScript · JavaScript (ES6+) · C#
 - **Frontend:** React · Vue 2/3 · Next.js · Nuxt
 - **Mobile & Desktop:** React Native · Electron
 - **Architecture:** Micro Frontends (Module Federation) · Component-Driven Development · Design Systems · SSR / SSG / ISR · Code Splitting & Lazy Loading · Performance Optimization (Core Web Vitals) · Accessibility (a11y) · Responsive Design
